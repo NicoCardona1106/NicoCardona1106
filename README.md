@@ -20,3 +20,4 @@ Python · TypeScript · Next.js · React · Supabase/Postgres · Flutter · Clau
 ## Contacto
 
 - Correo: [nicocardona1107@gmail.com](mailto:nicocardona1107@gmail.com)
+- LinkedIn: [nicolas-cardona](https://www.linkedin.com/in/nicolas-cardona-705b2530a/)
